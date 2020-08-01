@@ -4,7 +4,7 @@
 **lucasbpro/lucasbpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
+My name is Lucas, from Belo Horizonte, Brazil and...
 
 - 🔭 I’m currently working at Embraer as a Flight Control Laws Engineer.
 - 🌱 I’m currently learning React.js and also plunging into Data Science and Machine Learning.
